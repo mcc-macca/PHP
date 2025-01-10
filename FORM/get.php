@@ -8,7 +8,7 @@
 <body>
     <h1>Invio nome e et&agrave;</h1>
     <form action="get.php" method="get">
-        <input type="text" name="nominativo" placeholder="nome">
+        <input type="text" name="nome" placeholder="nome">
         <br>
         <input type="number" name="eta" placeholder="età">
         <br>
