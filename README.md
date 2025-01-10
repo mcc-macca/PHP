@@ -6,10 +6,10 @@ brevi codici per guide su php basilari
   - [x] POST
   - [x] GET
 - [ ] CONNESSIONE PDO
-- [ ] CLASSI
-- [ ] COOKIE
-  - [ ] SETCOOKIE
-  - [ ] SETRAWCOOKIE
+- [X] CLASSI
+- [x] COOKIE
+  - [x] SETCOOKIE
+  - [x] SETRAWCOOKIE
 - [ ] SESSION
 - [ ] ARRAY
   - [ ] CLASSICO
