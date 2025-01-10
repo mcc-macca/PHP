@@ -10,7 +10,7 @@ brevi codici per guide su php basilari
 - [x] COOKIE
   - [x] SETCOOKIE
   - [x] SETRAWCOOKIE
-- [ ] SESSION
-- [ ] ARRAY
-  - [ ] CLASSICO
-  - [ ] ASSOCIATIVO
+- [x] SESSION
+- [x] ARRAY
+  - [x] CLASSICO
+  - [x] ASSOCIATIVO
