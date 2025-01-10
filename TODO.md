@@ -1,0 +1,12 @@
+- [x] FORM
+  - [x] POST
+  - [x] GET
+- [ ] CONNESSIONE PDO
+- [ ] CLASSI
+- [ ] COOKIE
+  - [ ] SETCOOKIE
+  - [ ] SETRAWCOOKIE
+- [ ] SESSION
+- [ ] ARRAY
+  - [ ] CLASSICO
+  - [ ] ASSOCIATIVO
