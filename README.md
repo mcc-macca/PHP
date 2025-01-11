@@ -5,7 +5,7 @@ brevi codici per guide su php basilari
 - [x] FORM
   - [x] POST
   - [x] GET
-- [ ] CONNESSIONE PDO
+- [x] CONNESSIONE PDO
 - [X] CLASSI
 - [x] COOKIE
   - [x] SETCOOKIE
@@ -14,3 +14,5 @@ brevi codici per guide su php basilari
 - [x] ARRAY
   - [x] CLASSICO
   - [x] ASSOCIATIVO
+- [x] PHPMYADMIN
+- [x] TABELLE SQL
